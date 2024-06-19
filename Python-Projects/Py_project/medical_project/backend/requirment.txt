@@ -1,0 +1,6 @@
+pdf2image
+pytesseract
+numpy
+pandas
+opencv_python
+fastAPI
